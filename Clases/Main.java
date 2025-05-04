@@ -6,6 +6,7 @@ public class Main {
         Animal gato = new Animal("gato", "malparido");
         perro.comer();
         gato.comer();
+        perro.morder();
 
 
     }

@@ -10,5 +10,8 @@ public class Animal {
     public void comer(){
         System.out.println("Comienza comida");
     }
+    public void morder(){
+        System.out.println("me ha mordido este hijuputa");
+    }
 
 }
