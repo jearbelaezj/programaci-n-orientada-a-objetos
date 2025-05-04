@@ -7,4 +7,7 @@ public class Animal {
         this.nome = nome;
         this.raca = raca;
     }
+    public void  morder(){
+        System.out.println("joda me a mordido");
+    }
 }
